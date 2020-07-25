@@ -23,3 +23,4 @@ class SNEdit < Formula
   test do
     system "false"
   end
+end
