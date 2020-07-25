@@ -1,4 +1,4 @@
-class SNEdit < Formula
+class SnEdit < Formula
   tag = "v0.2"
   
   desc "The sn-edit cli app"
