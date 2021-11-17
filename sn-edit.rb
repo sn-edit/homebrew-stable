@@ -18,8 +18,6 @@ class SnEdit < Formula
     bin.install Dir.glob("sn-edit*").first => "sn-edit"
   end
 
-  bottle :unneeded
-
   test do
     system "false"
   end
